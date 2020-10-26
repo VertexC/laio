@@ -4,7 +4,7 @@ LAIO is a demo project, which builds up a pipeline from log generation, collecti
 It is also a good start point to play around Kafka and ELK stack (Actually, EBK).
 
 # Prerequisites
-You need to download, config and set up some instances. Please refer this documents [xxxx] for detailed explanation.
+You need to download, config and set up local environment. Please refer to the [wiki page](https://github.com/VertexC/LAIO/wiki) for detailed explanation.
 
 # Reference
 - Kafka Consumer Implementation: https://gist.github.com/nilsmagnus/4b582f9a36279bff5f8f9d453f8fb9c4#file-kafka_consumer-go
